@@ -6,11 +6,11 @@ You can write a java program in any simple text editor like Notepad, Notepad++ o
 
 In java compilation, it’s a process to convert text file (.java file/java program) to class file. Java compiler converts Java source code to the class file and produced output file will be "HelloWorld.class".
 
-To compile java program, follow following syntax:    
+To compile java program, follow following syntax:-   
 ##### javac HelloWorld.java
 
 Once you compile the Java program and if it compiled successfully, you can execute Java program to produce the output.
 
-To execute class file, follow following syntax:    
+To Execute class file, follow following syntax:    
 ##### java HelloWorld
 
